@@ -1,0 +1,6 @@
+{
+  "documents": [
+    { "id": 1, "company": "Apple", "documentType": "Form 10K", "year": "2023" },
+    { "id": 2, "company": "Google", "documentType": "Form 10Q", "year": "2022" }
+  ]
+}
